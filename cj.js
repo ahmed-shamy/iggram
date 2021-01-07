@@ -8,73 +8,73 @@ var config = {
       avatarImageUrl: 'https://i.ibb.co/qMSm9Nn/default-avatar.png', // or: avatarImageUrl: 'https://imgur.com/',
       username: 'Anonymous',
       time: 'few hours ago',
-      instagramProfileUrl: 'http://igvd.xyz/'
+      instagramProfileUrl: '/'
     },
     {
       avatarImageUrl: 'https://i.ibb.co/qMSm9Nn/default-avatar.png',
       username: 'Anonymous',
       time: 'few minutes ago',
-      instagramProfileUrl: 'http://igvd.xyz/'
+      instagramProfileUrl: '/'
     },
     {
       avatarImageUrl: 'https://i.ibb.co/qMSm9Nn/default-avatar.png',
       username: 'Anonymous',
       time: 'few minutes ago',
-      instagramProfileUrl: 'http://igvd.xyz/'
+      instagramProfileUrl: '/'
     },
     {
       avatarImageUrl: 'https://i.ibb.co/qMSm9Nn/default-avatar.png',
       username: 'Anonymous',
       time: 'few seconds ago',
-      instagramProfileUrl: 'http://igvd.xyz/'
+      instagramProfileUrl: '/'
     },
     {
       avatarImageUrl: 'https://i.ibb.co/qMSm9Nn/default-avatar.png',
       username: 'Anonymous',
       time: 'few seconds ago',
-      instagramProfileUrl: 'http://igvd.xyz/'
+      instagramProfileUrl: '/'
     },
     {
       avatarImageUrl: 'https://i.ibb.co/qMSm9Nn/default-avatar.png',
       username: 'Anonymous',
       time: 'few seconds ago',
-      instagramProfileUrl: 'http://igvd.xyz/'
+      instagramProfileUrl: '/'
     },
     {
       avatarImageUrl: 'https://i.ibb.co/qMSm9Nn/default-avatar.png',
       username: 'Anonymous',
       time: 'few seconds ago',
-      instagramProfileUrl: 'http://igvd.xyz/'
+      instagramProfileUrl: '/'
     },
     {
       avatarImageUrl: 'https://i.ibb.co/qMSm9Nn/default-avatar.png',
       username: 'Anonymous',
       time: 'few seconds ago',
-      instagramProfileUrl: 'http://igvd.xyz/'
+      instagramProfileUrl: '/'
     },
     {
       avatarImageUrl: 'https://i.ibb.co/qMSm9Nn/default-avatar.png',
       username: 'Anonymous',
       time: 'few seconds ago',
-      instagramProfileUrl: 'http://igvd.xyz/'
+      instagramProfileUrl: '/'
     },
     {
       avatarImageUrl: 'https://i.ibb.co/qMSm9Nn/default-avatar.png',
       username: 'Anonymous',
       time: 'few seconds ago',
-      instagramProfileUrl: 'http://igvd.xyz/'
+      instagramProfileUrl: '/'
     },
     {
       avatarImageUrl: 'https://i.ibb.co/qMSm9Nn/default-avatar.png',
       username: 'Anonymous',
       time: 'few seconds ago',
-      instagramProfileUrl: 'http://igvd.xyz/'
+      instagramProfileUrl: '/'
     },
     {
       avatarImageUrl: 'https://i.ibb.co/qMSm9Nn/default-avatar.png',
       username: 'Anonymous',
       time: 'few seconds ago',
-      instagramProfileUrl: 'http://igvd.xyz/'
+      instagramProfileUrl: '/'
     },
     // add more recent activities here. Will be displayed last.
   ]
